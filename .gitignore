@@ -1,2 +1,6 @@
 # Ignore folders
 MLOps-Basics-org/
+MLOps-Basics/week_0_project_setup/models
+MLOps-Basics/week_0_project_setup/logs
+MLOps-Basics/week_0_project_setup/__pycache__
+MLOps-Basics/week_0_project_setup/eda.ipynb
